@@ -1,6 +1,8 @@
 # raptors
-simple image recognition model with 4 classes of raptors (eagle, hawk, kestrel, vulture)
+Simple image recognition model with 4 classes of raptors living in Canada (eagle, hawk, kestrel, vulture)
 
-dataset - images downloaded from google search
+Dataset - images downloaded from google search with ~150 images per class
 
-accurancy - about 65%
+Accurancy - about 65%
+
+I believe that with larger data set the accurancy could be much higher 
